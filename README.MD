@@ -1,2 +1,2 @@
 # nodeExpressSrv
-Nood corona server with Express and sqLite3
+nodeCoronaServer with Express and sqLite3
