@@ -1,0 +1,121 @@
+[
+   {
+      "id": 0,
+      "date": "17-9-2020",
+      "province": "Zuid-Holland",
+      "infected": 24815,
+      "deceased": 1357
+   },
+   {
+      "id": 1,
+      "date": "17-9-2020",
+      "province": "Noord-Holland",
+      "infected": 16580,
+      "deceased": 836
+   },
+   {
+      "id": 2,
+      "date": "17-9-2020",
+      "province": "Noord-Brabant",
+      "infected": 13701,
+      "deceased": 1551
+   },
+   {
+      "id": 3,
+      "date": "17-9-2020",
+      "province": "Gelderland",
+      "infected": 8689,
+      "deceased": 692
+   },
+   {
+      "id": 4,
+      "date": "17-9-2020",
+      "province": "Utrecht",
+      "infected": 6774,
+      "deceased": 437
+   },
+   {
+      "id": 5,
+      "date": "17-9-2020",
+      "province": "Limburg",
+      "infected": 5852,
+      "deceased": 758
+   },
+   {
+      "id": 6,
+      "date": "17-9-2020",
+      "province": "Overijssel",
+      "infected": 3878,
+      "deceased": 314
+   },
+   {
+      "id": 7,
+      "date": "17-9-2020",
+      "province": "Aruba",
+      "infected": 3328,
+      "deceased": 22
+   },
+   {
+      "id": 8,
+      "date": "17-9-2020",
+      "province": "Flevoland",
+      "infected": 1653,
+      "deceased": 96
+   },
+   {
+      "id": 9,
+      "date": "17-9-2020",
+      "province": "Zeeland",
+      "infected": 1155,
+      "deceased": 72
+   },
+   {
+      "id": 10,
+      "date": "17-9-2020",
+      "province": "Friesland",
+      "infected": 938,
+      "deceased": 69
+   },
+   {
+      "id": 11,
+      "date": "17-9-2020",
+      "province": "Groningen",
+      "infected": 884,
+      "deceased": 19
+   },
+   {
+      "id": 12,
+      "date": "17-9-2020",
+      "province": "Unknown",
+      "infected": 728,
+      "deceased": 18
+   },
+   {
+      "id": 13,
+      "date": "17-9-2020",
+      "province": "Drenthe",
+      "infected": 673,
+      "deceased": 41
+   },
+   {
+      "id": 14,
+      "date": "17-9-2020",
+      "province": "Sint Maarten",
+      "infected": 557,
+      "deceased": 19
+   },
+   {
+      "id": 15,
+      "date": "17-9-2020",
+      "province": "Curacao",
+      "infected": 192,
+      "deceased": 1
+   },
+   {
+      "id": 16,
+      "date": "17-9-2020",
+      "province": "Bonaire, Sint Eustatius and Saba",
+      "infected": 28,
+      "deceased": 1
+   }
+]
