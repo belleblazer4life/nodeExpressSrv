@@ -27,7 +27,6 @@ db.all(sql, [], (err, res) => {
 });
 ```
 
-<div style="page-break-after: always;"></div>
 **result** of console.log
 
 ```json
