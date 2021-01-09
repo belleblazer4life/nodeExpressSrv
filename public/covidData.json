@@ -1,87 +1,87 @@
 [
    {
       "region": "Zuid-Holland",
-      "infectedCount": 37162,
-      "deceasedCount": 1410
+      "infectedCount": 149682,
+      "deceasedCount": 2364
    },
    {
       "region": "Noord-Holland",
-      "infectedCount": 25534,
-      "deceasedCount": 866
+      "infectedCount": 95881,
+      "deceasedCount": 1307
    },
    {
       "region": "Noord-Brabant",
-      "infectedCount": 17891,
-      "deceasedCount": 1563
+      "infectedCount": 84469,
+      "deceasedCount": 2062
    },
    {
       "region": "Gelderland",
-      "infectedCount": 12050,
-      "deceasedCount": 702
+      "infectedCount": 53144,
+      "deceasedCount": 1066
    },
    {
       "region": "Utrecht",
-      "infectedCount": 9899,
-      "deceasedCount": 442
-   },
-   {
-      "region": "Limburg",
-      "infectedCount": 6802,
-      "deceasedCount": 764
+      "infectedCount": 44860,
+      "deceasedCount": 696
    },
    {
       "region": "Overijssel",
-      "infectedCount": 5205,
-      "deceasedCount": 344
+      "infectedCount": 32289,
+      "deceasedCount": 544
    },
    {
-      "region": "Aruba",
-      "infectedCount": 3998,
-      "deceasedCount": 27
+      "region": "Limburg",
+      "infectedCount": 25774,
+      "deceasedCount": 891
    },
    {
       "region": "Flevoland",
-      "infectedCount": 2295,
-      "deceasedCount": 100
-   },
-   {
-      "region": "Groningen",
-      "infectedCount": 1871,
-      "deceasedCount": 20
+      "infectedCount": 11464,
+      "deceasedCount": 141
    },
    {
       "region": "Friesland",
-      "infectedCount": 1684,
-      "deceasedCount": 69
+      "infectedCount": 8868,
+      "deceasedCount": 137
    },
    {
-      "region": "Zeeland",
-      "infectedCount": 1406,
-      "deceasedCount": 72
+      "region": "Groningen",
+      "infectedCount": 8695,
+      "deceasedCount": 51
    },
    {
       "region": "Drenthe",
-      "infectedCount": 1250,
-      "deceasedCount": 49
+      "infectedCount": 7940,
+      "deceasedCount": 114
+   },
+   {
+      "region": "Zeeland",
+      "infectedCount": 6367,
+      "deceasedCount": 104
+   },
+   {
+      "region": "Aruba",
+      "infectedCount": 4872,
+      "deceasedCount": 45
    },
    {
       "region": "Unknown",
-      "infectedCount": 1048,
-      "deceasedCount": 18
-   },
-   {
-      "region": "Sint Maarten",
-      "infectedCount": 668,
-      "deceasedCount": 22
+      "infectedCount": 3011,
+      "deceasedCount": 27
    },
    {
       "region": "Curacao",
-      "infectedCount": 399,
-      "deceasedCount": 1
+      "infectedCount": 2503,
+      "deceasedCount": 7
+   },
+   {
+      "region": "Sint Maarten",
+      "infectedCount": 1069,
+      "deceasedCount": 25
    },
    {
       "region": "Bonaire, Sint Eustatius and Saba",
-      "infectedCount": 121,
-      "deceasedCount": 1
+      "infectedCount": 162,
+      "deceasedCount": 3
    }
 ]
